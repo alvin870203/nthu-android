@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">review_3Bar</string>
+    <string name="seekbarProgress">SeekBar的Progress值:</string>
+    <string name="ratingbarRating">RatingBar的Rating值:</string>
+    <string name="ratingbarProgress">RatingBar的Progress值:</string>
+</resources>

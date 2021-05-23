@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HW3_2</string>
+    <string name="sTitle">和電腦猜拳</string>
+    <string name="sComputer">電腦出拳</string>
+    <string name="sPlayer">玩家出拳</string>
+    <string name="sScissor">出剪刀</string>
+    <string name="sPaper">出布</string>
+    <string name="sRock">出石頭</string>
+    <string name="sResult">比賽結果</string>
+    <string name="sReplay">重啟</string>
+    <string name="sShow">局數統計</string>
+    <string name="sBack">回猜拳</string>
+    <string name="sNum">局數</string>
+</resources>

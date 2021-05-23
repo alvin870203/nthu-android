@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HW5_2</string>
+    <string name="writein">加入聯絡人</string>
+    <string name="read">搜尋聯絡人</string>
+    <string name="clear">清除檔案</string>
+    <string name="addNum"> 請輸入電話</string>
+    <string name="addName"> 新增的聯絡人名稱</string>
+    <string name="searchName"> 請輸入要尋找的聯絡人名稱?</string>
+</resources>

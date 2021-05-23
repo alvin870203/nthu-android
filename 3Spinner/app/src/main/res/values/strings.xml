@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">3Spinner</string>
+
+<!--    全部的字串-->
+    <string name="tea_title">飲品項目</string>
+    <string name="sugar_title">甜度</string>
+    <string name="green_tea">綠茶</string>
+    <string name="black_tea">紅茶</string>
+    <string name="milk_tea">奶茶</string>
+    <string name="no_sugar">無糖</string>
+    <string name="thirty_percent">微糖</string>
+    <string name="half">半糖</string>
+    <string name="seventy_percent">少糖</string>
+    <string name="all_sugar">全糖</string>
+
+<!--    選單列表-->
+
+    <!--    選單標題-->
+    <string name="spn_tea_list_prompt">請選擇飲料</string>
+    <!--    選單選項-->
+    <string-array name="tea_list">
+        <item>紅茶</item>
+        <item>綠茶</item>
+        <item>奶茶</item>
+    </string-array>
+
+    <!--    選單標題-->
+    <string name="spn_sugar_list_prompt">請選擇甜度</string>
+    <!--    選單選項-->
+    <string-array name="sugar">
+        <item>無糖</item>
+        <item>微糖</item>
+        <item>半糖</item>
+        <item>少糖</item>
+        <item>全糖</item>
+    </string-array>
+
+</resources>

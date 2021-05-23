@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">review_1-1</string>
+<!--    <string name="字串名稱">字串內容</string>-->
+    <string name="Ans">答案=?</string>
+    <string name="Cal">開始計算</string>
+</resources>

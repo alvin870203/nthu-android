@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">review_2Editview</string>
+    <string name="title">計算BMI</string>
+    <string name="height">輸入身高(m)</string>
+    <string name="weight">輸入體重(kg)</string>
+    <string name="BMI">BMI=?</string>
+    <string name="cal">開始計算</string>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">review_7Stream</string>
+    <string name="writein">資料寫入</string>
+    <string name="read">資料讀取</string>
+    <string name="clear">資料清除</string>
+</resources>
